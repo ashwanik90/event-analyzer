@@ -27,5 +27,5 @@ Optional parameters with default value
 * Database parameters can be configurable.
 * Add test cases to test job start to finish.
 * Add test cases to ignore unformatted records.
-* Add multithreading support to support parallel processing of large file.
+* Add multithreading to support parallel processing of large file.
  
