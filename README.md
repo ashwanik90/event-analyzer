@@ -1,6 +1,6 @@
 # Event Analyzer
 
-This project analyzes log file with several events occurrences and alert events with duration longer than 4 ms.
+This project analyzes log file of events occurrences , it matches related events and  marked alert if duration longer than 4 ms.
 It is built using spring batch framework along spring boot and using HSQL file based db to store events.
 
 ## Compile
